@@ -1,1 +1,1 @@
-![Picture of my face in front of a whiteboard with a thought bubble drawn with the words "Whiteboards are awesome!"](/whiteboards-awesome.png)
+![Picture of my face in front of a whiteboard with a thought bubble drawn with the words "Whiteboards are awesome! Additional captions read "I build stuff with code," "My passion is DevEx," "Full Lifecycle (code+deploy)", "Backend Focus."](/whiteboards-awesome.png)
